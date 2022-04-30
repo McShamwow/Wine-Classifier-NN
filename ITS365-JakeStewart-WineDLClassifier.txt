@@ -1,4 +1,6 @@
-﻿Cleaning and Transforming the Dataset
+﻿https://youtu.be/VJDmgOXxpv0
+ 
+ Cleaning and Transforming the Dataset
 
 
 * The dataset has 6497 samples and 12 features.
